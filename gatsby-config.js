@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `John Cervantes`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://www.johncervantes.co.uk`
   },
   plugins: ["gatsby-plugin-image", "gatsby-plugin-react-helmet", "gatsby-plugin-sitemap", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
     resolve: 'gatsby-source-filesystem',
